@@ -24,3 +24,14 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/images/cerceve1.jpg
+    - assets/images/cerceve2.jpg
+    - assets/images/cerceve3.jpg
+    - assets/images/cerceve4.jpg
+    - assets/images/cerceve5.jpg
+    - assets/images/cam1.jpg
+    - assets/images/cam2.jpg
+    - assets/images/cam3.jpg
+    - assets/images/cam4.jpg
+    - assets/images/cam5.jpg
